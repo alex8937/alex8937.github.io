@@ -11,7 +11,6 @@ ads: false
 comments: true
 permalink: /About/
 ---
-
 I am a big fan of computer science technologies, machine learning and physics. 
 
 As a current software engineer working at [Optym](https://www.optym.com/), my daily work involves with algorithm desigin, data science and a little bit mathematics.
