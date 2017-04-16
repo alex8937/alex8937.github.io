@@ -1,6 +1,7 @@
 ---
 layout: article
 excerpt: "This is my information page."
+title: "Who I am"
 image:
   feature: Submarine-1600x500.jpg
   teaser:
@@ -10,8 +11,6 @@ ads: false
 comments: true
 permalink: /About/
 ---
-
-## Who am I
 
 I am a big fan of computer science technologies, machine learning and physics. 
 
