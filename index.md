@@ -2,6 +2,8 @@
 layout: archive
 permalink: /
 title: "Latest Posts"
+image:
+  feature: cover.jpg
 ---
 
 <div class="tiles">
@@ -9,3 +11,4 @@ title: "Latest Posts"
 	{% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
+

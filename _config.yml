@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: "Nautilus's Entropy"
+title: "Nautilus's Entropy Blog"
 description: "To think of a good description is killing me..."
 logo: nautilus.jpg
 teaser: teaser.png
 locale: en
-url:
+url: #https://alex8937.github.io
 feed:
   path: atom.xml
 
@@ -23,7 +23,9 @@ gems:
   - jekyll-gist
   - jekyll-feed
 
-
+github_username: alex8937
+  
+  
 # Site owner
 owner:
   name: Chen Chen
@@ -35,7 +37,8 @@ owner:
   bio:
   avatar: bio-photo.jpg # 160x160 px image for author byline
   disqus-shortname: Nautilus's Entropy
-
+  github: "https://github.com/alex8937"
+  
 
 include:
   - .htaccess

@@ -4,3 +4,8 @@
   url: /study/
   excerpt: "Do something today that your future self will thank you for"
   image: study.jpg
+
+- title: About Me
+  url: /About/
+  excerpt: "Here is my information"
+  image: nautilus 400x250.jpg

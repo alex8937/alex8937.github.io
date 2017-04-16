@@ -4,7 +4,7 @@ title: "Openware Course List"
 categories: study
 comments: true
 image:
-  feature: Stanford-University-1600x800.jpg
+  feature: Stanford-University-1600x500.jpg
   teaser: study.jpg
 ---
 
