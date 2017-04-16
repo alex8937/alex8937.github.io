@@ -8,6 +8,7 @@ image:
   thumb:
 share: false
 ads: false
+permalink: /about/
 ---
 
 
