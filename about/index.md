@@ -1,22 +1,30 @@
 ---
-layout: about
-title: "About Me"
+layout: article
 excerpt: "This is my information page."
 image:
-  feature:
+  feature: Submarine-1600x500.jpg
   teaser:
   thumb:
 share: false
 ads: false
+comments: true
 permalink: /About/
 ---
 
+## Who am I
 
+I am a big fan of computer science technologies, machine learning and physics. 
 
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+As a current software engineer working at [Optym](https://www.optym.com/), my daily work involves with algorithm desigin, data science and a little bit mathematics.
 
-<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="chen-chen-16565777"><a class="LI-simple-link" href='https://www.linkedin.com/in/chen-chen-16565777?trk=profile-badge'>Chen Chen</a></div>
+## More links about me
 
-Welcome to my blog! My owner of this blog is called Chen Chen, a big fan of technologies and science.
+[Github page](https://github.com/alex8937)
 
-If you have any questions, feel free to contact him via <ultraseven8937@gmail.com>.
+[Stack Overflow](http://stackoverflow.com/users/5310949/chen-chen)
+
+[Linkedin](https://www.linkedin.com/in/chen-chen-16565777/)
+
+## Contact
+
+If you have any concern, feel free to leave comments below.

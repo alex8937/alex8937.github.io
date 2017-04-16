@@ -1,6 +1,8 @@
 ---
 layout: archive
 title: "Latest Posts"
+image:
+  feature: library-1600x500.jpg
 ---
 
 <div class="tiles">
