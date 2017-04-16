@@ -5,7 +5,7 @@ description: "To think of a good description is killing me..."
 logo: nautilus.jpg
 teaser: teaser.png
 locale: en
-url: https://alex8937.github.io
+url: #https://alex8937.github.io
 feed:
   path: atom.xml
 
