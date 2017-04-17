@@ -25,4 +25,4 @@ As a current software engineer working at [Optym](https://www.optym.com/), my da
 
 ## Contact
 
-If you have any concern, feel free to leave comments below.
+If you have any concern, feel free to leave comments below or via <ultraseven8937@gmail.com>.
