@@ -37,7 +37,6 @@ owner:
   bio:
   avatar: bio-photo.jpg # 160x160 px image for author byline
   disqus-shortname: Nautilus's Entropy
-  github: "https://github.com/alex8937"
   
 
 include:
