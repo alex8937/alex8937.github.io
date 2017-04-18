@@ -10,7 +10,7 @@ image:
 
 This is an archive of openware courses related to computer science, machine learning, physics and mathematics.
 
-## Computer Science Fundmentals
+## Computer Science Fundamentals
 1. [Berkley CS61A: The Structure and Interpretation of Computer  Programs](https://inst.eecs.berkeley.edu/~cs61a/fa16/) 
 2. [Berkley CS61B: Data Strudcture](http://datastructur.es/sp16/)
 
