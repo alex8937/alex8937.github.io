@@ -24,7 +24,9 @@ This is an archive of openware courses related to computer science, machine lear
 3. [CMU 10-701: Machine Learning](http://www.cs.cmu.edu/~mgormley/courses/10701-f16/people.html) by Eric Xing & Matt Gormley 
 4. [CMU 10-701: Machine Learning](http://alex.smola.org/teaching/10-701-15/intro.html) by Alex Smola
 5. [CMU 10-715: Advanced Introduction to Machine Learning](http://www.cs.cmu.edu/~bapoczos/Classes/ML10715_2015Fall/)
-6. [CMU 10-605 Machine learning with large datasets](http://curtis.ml.cmu.edu/w/courses/index.php/Machine_Learning_with_Large_Datasets_10-605_in_Fall_2016#Syllabus)
+6. [CMU 10-605 Machine Learning with Large Datasets](http://curtis.ml.cmu.edu/w/courses/index.php/Machine_Learning_with_Large_Datasets_10-605_in_Fall_2016#Syllabus)
+7. [UBC CPSC 540 Machine Learning](http://www.cs.ubc.ca/~nando/540-2013/lectures.html)
+8. [Caltech Learning from Data](http://work.caltech.edu/telecourse.html)
 
 ## Deep Learning
 1. [Stanford CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
