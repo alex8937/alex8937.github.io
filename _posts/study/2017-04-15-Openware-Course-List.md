@@ -30,6 +30,7 @@ This is an archive of openware courses related to computer science, machine lear
 7. [UBC CPSC 540 Machine Learning](http://www.cs.ubc.ca/~nando/540-2013/lectures.html)
 8. [Caltech Learning from Data](http://work.caltech.edu/telecourse.html)
 9. [Oxford Machine Learning](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
+10. [Berkley CS 189 Introduction to Machine Learning](https://people.eecs.berkeley.edu/~jrs/189s16/)
 
 ## Deep Learning
 1. [Stanford CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
