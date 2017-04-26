@@ -17,8 +17,12 @@ This is an archive of openware courses related to computer science, machine lear
 4. [MIT 6.006 Introduction to Algorithms](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
 5. [MIT 6.046J Design and Analysis of Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/)
 
+## Network
+1. [Harvard CS E-75 Building Dynamic Websites](http://cs75.tv/2012/summer/)
+
 ## Artifitial Intelligence
 1. [Berkley CS188x: Artificial Intelligence](https://edge.edx.org/courses/course-v1%3ABerkeleyX%2BCS188x-SP16%2BSP16/)
+2. [MIT 6.034: Artificial Intelligence](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/)
 
 ## Machine Learning
 1. [Stanford CS229: Machine Learning](http://cs229.stanford.edu/)
