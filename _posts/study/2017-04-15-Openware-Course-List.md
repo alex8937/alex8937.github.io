@@ -12,7 +12,7 @@ This is an archive of openware courses related to computer science, machine lear
 
 ## Computer Science Fundamentals
 1. [Berkley CS61A: The Structure and Interpretation of Computer  Programs](https://inst.eecs.berkeley.edu/~cs61a/fa16/) 
-2. [Berkley CS61B: Data Strudcture](http://datastructur.es/sp17/)
+2. [Berkley CS61B: Data Structure](http://datastructur.es/sp17/)
 3. [Berkley CS61C: Great Ideas in Computer Architecture](https://www.youtube.com/watch?v=gJJeUFyuvvg&list=PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_)
 4. [MIT 6.006 Introduction to Algorithms](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
 5. [MIT 6.046J Design and Analysis of Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/)
