@@ -7,7 +7,7 @@ image:
   feature: Stanford-University-1600x500.jpg
 ---
 
-This is an blog discussing a brief discussion about Fourier transform. Its relation with characteristic function in probability theory will be posted in later discussion.
+This is an blog discussing a brief discussion about Fourier transform. 
 
 Let us consider real- or complex-valued functions $\color{black}{f(\mathbf{x})}$, where $\color{black}{\mathbf{x}\in \mathbb{R}^d}$. The Fourier transform maps functions $\color{black}{f(\mathbf{x})}$ on spatial domain to Fourier domain $\color{black}{\hat{f}(\mathbf{\omega})}$, which is defined by
 
