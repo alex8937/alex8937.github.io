@@ -7,7 +7,7 @@ image:
   feature: Stanford-University-1600x500.jpg
 ---
 
-This is an blog discussing a brief discussion about Fourier transform. 
+This is an blog discussing a brief discussion about Fourier transform.
 
 Let us consider real- or complex-valued functions $\color{black}{f(\mathbf{x})}$, where $\color{black}{\mathbf{x}\in \mathbb{R}^d}$. The Fourier transform maps functions $\color{black}{f(\mathbf{x})}$ on spatial domain to Fourier domain $\color{black}{\hat{f}(\mathbf{\omega})}$, which is defined by
 
@@ -101,7 +101,7 @@ $$
 \end{equation}
 $$
 
-Therefore, by applying Fourier transform on both sides and taking use of Fourier inversion theorem, we obtain $\color{black}{\mathfrak{F} [\partial_{\mathbf{x}}f]=i\mathbf{\omega}\mathfrak{F}[f]}$. Furthormore, this property can be generalized to $\color{black}{n^{th}}$ order of differentiation as $\color{black}{\mathfrak{F}^n [\partial_{\mathbf{x}}f]=(i\mathbf{\omega})^n\mathfrak{F}[f]}$.
+Therefore, by applying Fourier transform on both sides and taking use of Fourier inversion theorem, we obtain $\color{black}{\mathfrak{F} [\partial_{\mathbf{x}}f]=i\mathbf{\omega}\mathfrak{F}[f]}$. Furthormore, this property can be generalized to $\color{black}{n^{th}}$ order of differentiation as $\color{black}{\mathfrak{F} [\partial^n_{\mathbf{x}}f]=(i\mathbf{\omega})^n\mathfrak{F}[f]}$.
 
 #### 3. Convolution theorem:
 
