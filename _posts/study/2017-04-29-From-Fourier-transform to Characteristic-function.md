@@ -81,7 +81,7 @@ $$
 \end{equation}
 $$
 
-Noticing that $\color{black}{\mathrm{exp({i\mathbf{\omega}\cdot\mathbf{x}})}}$  depends on  $\color{black}{\mathbf{x}}$ in the equation above, we take a differentiation corresponding to  $\color{black}{\mathbf{x}}$,
+Keeping in mind that only $\color{black}{\mathrm{exp({i\mathbf{\omega}\cdot\mathbf{x}})}}$ in the equation above depends on  $\color{black}{\mathbf{x}}$, we take a differentiation corresponding to  $\color{black}{\mathbf{x}}$,
 
 $$
 \begin{equation}
