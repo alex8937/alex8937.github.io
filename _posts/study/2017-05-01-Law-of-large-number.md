@@ -1,19 +1,17 @@
 ---
 layout: article
-title: "Law of large number and Central limit theorem"
+title: "Law of large numbers"
 categories: study
 comments: true
 image:
   feature: Stanford-University-1600x500.jpg
 ---
 
-This is a blog discussing the Law of large numbers (LLN) and Central limit theorem (CLT) with the application of characteristic function.
+This is a blog discussing the Law of large numbers (LLN) and proof with characteristic function.
 
-In probability theory, both Law of large numbers and Central limit theorem describe the asymptotic behavior of the empirical average of the independent and identically distributed (i.i.d.) random variables towards the expected value as number of experiments grows.
+In probability theory, law of large numbers describes the asymptotic behavior of the empirical average of the independent and identically distributed (i.i.d.) random variables converging towards the expectation as number of sample grows.
 
-## Law of large numbers
-
-Consider a sequence of i.i.d. random variables $\color{black}{X_i}$ with mean $\color{black}{\mu = E\left[{X}\right]}$, the law of large numbers come in following two forms, one weak law and one strong law:
+Consider a sequence of i.i.d. random variables $\color{black}{X_i}$ with mean $\color{black}{\mu = E\left[{X}\right]}$, the law of large numbers comes in two forms, one weak law and one strong law as follows
 
 ### Weak law
 
@@ -26,7 +24,7 @@ $$\begin{equation}
 \end{split}
 \end{equation}$$
 
-This is sometimes also denoted as when $\color{black}{n \rightarrow \infty}$,
+In another notation, it is expressed as when $\color{black}{n \rightarrow \infty}$,
 
 $$\begin{equation}
 \begin{split}
@@ -35,12 +33,12 @@ $$\begin{equation}
 \end{split}
 \end{equation}$$
 
-where $\color{black}{\overset{P}{\rightarrow}}$ is called convergence in probability. What weak law represents is that as size of sample goes infinity, the probability that the empirical average $\color{black}{\hat{\mu}_n}$ is within the $\color{black}{\epsilon}$ neighborhood of the expectation $\color{black}{\mu}$ goes to $\color{black}{1}$. In other word, weak law does not guarantee that $\color{black}{\hat{\mu}_n}$ is always within the $\color{black}{\epsilon}$ neighborhood of the expectation $\color{black}{\mu}$. For instance,
+where $\color{black}{\overset{P}{\rightarrow}}$ is called convergence in probability. What weak law represents is that as size of sample grows to infinity, the probability that the empirical average $\color{black}{\hat{\mu}_n}$ is within the $\color{black}{\epsilon}$ neighborhood of the expectation $\color{black}{\mu}$ goes to $\color{black}{1}$. In other words, weak law does not guarantee that $\color{black}{\hat{\mu}_n}$ is always within the $\color{black}{\epsilon}$ neighborhood of the expectation $\color{black}{\mu}$. For instance,
 it can be the case that for  most of time $\color{black}{\hat{\mu}_n}$ converges to $\color{black}{\mu}$, but with very small probability $\color{black}{\hat{\mu}_n}$ deviates from $\color{black}{\mu}$ and the deviation can keep on increasing.
 
 ### Strong law
 
-The strong law of large numbers states that the sample average converges almost surely to the expected value. That is
+The strong law of large numbers, instead, states that the sample average converges almost surely to the expected value. Namely
 
 $$\begin{equation}
 \begin{split}
@@ -49,7 +47,7 @@ $$\begin{equation}
 \end{split}
 \end{equation}$$
 
-This is sometimes also denoted as when $\color{black}{n \rightarrow \infty}$,
+It is sometimes also written as when $\color{black}{n \rightarrow \infty}$,
 
 $$\begin{equation}
 \begin{split}
@@ -73,7 +71,7 @@ $$\begin{equation}
 \end{split}
 \end{equation}$$
 
-then $\color{black}{\phi_{X_{n}}(t)}$ converges to $\color{black}{\phi_{X}(t)}$ in probability. Thus, to prove the weak law of large numbers is equivalent to prove that
+then $\color{black}{\phi_{X_{n}}(t)}$ converges to $\color{black}{\phi_{X}(t)}$ in probability. Then, to prove the weak law of large numbers becomes equivalent to show
 
 $$\begin{equation}
 \begin{split}
@@ -105,7 +103,7 @@ $$\begin{equation}
 \end{split}
 \end{equation}$$
 
-Let us expand the exponential term with Taylor series up to first order, i.e.
+Let us expand the exponential term with Taylor series up to first order,
 
 $$\begin{equation}
 \begin{split}
@@ -115,7 +113,7 @@ $$\begin{equation}
 \end{split}
 \end{equation}$$
 
-and its expectation becomes
+incidentally its expectation becomes
 
 $$\begin{equation}
 \begin{split}
@@ -140,8 +138,8 @@ $$\begin{equation}
 \end{split}
 \end{equation}$$
 
-By Lévy's continuity theorem, this finishes the proof. Another proof of weak law using [Chebyshev's inequality](https://en.wikipedia.org/wiki/Chebyshev%27s_inequality) can be found [here](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-262-discrete-stochastic-processes-spring-2011/video-lectures/lecture-3-law-of-large-numbers-convergence/MIT6_262S11_lec03.pdf). It is noted that the approach using Chebyshev's inequality assume the existence of variance for the random variables, whereas the proof with characteristic function holds always.
+By Lévy's continuity theorem, this finishes the proof. Another proof of weak law using [Chebyshev's inequality](https://en.wikipedia.org/wiki/Chebyshev%27s_inequality) can be found [here](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-262-discrete-stochastic-processes-spring-2011/video-lectures/lecture-3-law-of-large-numbers-convergence/MIT6_262S11_lec03.pdf). It is noted that the approach using Chebyshev's inequality assumes the existence of variance for the random variables, whereas the proof with characteristic function holds always.
 
-## Central limit theorem
+### Spoiler:
 
-Law of large numbers describe the behavior that empirical average of random variables will converge to the expectation as the sample size increases, but it does not answer the question "How fast is the convergence?".
+In next post, we will look into the central limit theorem from the perspective of characteristic function. See you next time.

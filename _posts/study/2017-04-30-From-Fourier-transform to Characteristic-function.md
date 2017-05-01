@@ -298,4 +298,4 @@ which can also be found consistent with the scaling property of Fourier transfor
 
 ### Spoiler:
 
-In next post, we will look into the Law of Large Numbers and Central Limit Theorem from the perspective of characteristic function. See you next time.
+In next post, we will look into the Law of Large Numbers from the perspective of characteristic function. See you next time.
