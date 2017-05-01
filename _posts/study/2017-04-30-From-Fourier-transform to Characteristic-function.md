@@ -254,7 +254,7 @@ $$\begin{equation}
 \color{black}
 {\phi_{X}(t)}& \color{black}{= E[\mathrm{exp}(itx)]} \\
 &\color{black}{=\int_{-\infty}^{\infty}
-\frac{1}{\sqrt{2\pi}}\mathrm{exp}(-\frac{t^2}{2})
+\frac{1}{\sqrt{2\pi}}\mathrm{exp}(-\frac{x^2}{2})
 \mathrm{exp}({itx})dx
   } \\
   &\color{black}{=\frac{\mathrm{exp}(\frac{-t^2}{2})}{\sqrt{2\pi}}\int_{-\infty}^{\infty}
