@@ -220,7 +220,7 @@ $$\begin{equation}
 \end{split}
 \end{equation}$$
 
-This property is essential in deriving weak Law of Large Number and Central Limit Theorem. More details will be discussed in later post.
+This property is essential in deriving weak Law of Large Numbers and Central Limit Theorem. More details will be discussed in later post.
 
 ### Characteristic function of normal random variables
 
@@ -298,4 +298,4 @@ which can also be found consistent with the scaling property of Fourier transfor
 
 ### Spoiler:
 
-In next post, we will look into the weak Law of Large Number and Central Limit Theorem from the perspective of characteristic function. See you next time.
+In next post, we will look into the Law of Large Numbers and Central Limit Theorem from the perspective of characteristic function. See you next time.
