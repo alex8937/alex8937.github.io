@@ -102,7 +102,7 @@ To prove this, let us recall that the Maclaurin expansion of $\color{black}{\mat
 $$\begin{equation}
 \begin{split}
 \color{black}
-{\mathrm{exp}(i\mathbf{t} \cdot \mathbf{X}) =
+{\mathrm{exp}(i\mathbf{t} \cdot \mathbf{x}) =
 \sum_{k = 0}^{\infty}\frac{(i\mathbf{t} \cdot \mathbf{x})^{k}}{k!}
 
 .}
