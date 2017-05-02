@@ -125,7 +125,17 @@ $$\begin{equation}
 \end{split}
 \end{equation}$$
 
-Therefore,
+Also, bearing in mind that
+
+$$\begin{equation}
+\begin{split}
+\color{black}
+{\mathrm{exp}(x) = \lim_{n \rightarrow \infty}\left( 1 + \frac{x}{n}\right)^n,}
+
+\end{split}
+\end{equation}$$
+
+we can calculate that
 
 $$\begin{equation}
 \begin{split}
