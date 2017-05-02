@@ -71,7 +71,7 @@ $$\begin{equation}
 \end{split}
 \end{equation}$$
 
-then $\color{black}{\phi_{X_{n}}(t)}$ converges to $\color{black}{\phi_{X}(t)}$ in probability. Then, to prove the weak law of large numbers becomes equivalent to show
+then $\color{black}{X_{n}(t)}$ converges to $\color{black}{X(t)}$ in probability. Then, to prove the weak law of large numbers becomes equivalent to show
 
 $$\begin{equation}
 \begin{split}
