@@ -27,7 +27,7 @@ This is an archive of openware courses related to computer science, machine lear
 ## Machine Learning
 1. [Stanford CS229: Machine Learning](http://cs229.stanford.edu/)
 2. [CMU 10-601: Machine Learning](http://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml) by Tom Mitchell & Maria-Florina Balcan 
-3  [CMU 10-701: Machine Learning](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml) by Tom Mitchell (2011) 
+3. [CMU 10-701: Machine Learning](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml) by Tom Mitchell (2011) 
 4. [CMU 10-701: Machine Learning](http://www.cs.cmu.edu/~mgormley/courses/10701-f16/people.html) by Eric Xing & Matt Gormley 
 5. [CMU 10-701: Machine Learning](http://alex.smola.org/teaching/10-701-15/intro.html) by Alex Smola
 6. [CMU 10-715: Advanced Introduction to Machine Learning](http://www.cs.cmu.edu/~bapoczos/Classes/ML10715_2015Fall/)
