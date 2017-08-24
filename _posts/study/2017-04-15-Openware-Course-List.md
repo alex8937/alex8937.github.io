@@ -11,7 +11,7 @@ image:
 This is an archive of openware courses related to computer science, machine learning, physics and mathematics.
 
 ## Computer Science Fundamentals
-1. [Berkley CS61A: The Structure and Interpretation of Computer  Programs](https://inst.eecs.berkeley.edu/~cs61a/fa16/) 
+1. [Berkley CS61A: The Structure and Interpretation of Computer  Programs](https://inst.eecs.berkeley.edu/~cs61a/fa16/)
 2. [Berkley CS61B: Data Structure](http://datastructur.es/sp17/)
 3. [Berkley CS61C: Great Ideas in Computer Architecture](https://www.youtube.com/watch?v=gJJeUFyuvvg&list=PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_)
 4. [MIT 6.006 Introduction to Algorithms](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
@@ -26,9 +26,9 @@ This is an archive of openware courses related to computer science, machine lear
 
 ## Machine Learning
 1. [Stanford CS229: Machine Learning](http://cs229.stanford.edu/)
-2. [CMU 10-601: Machine Learning](http://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml) by Tom Mitchell & Maria-Florina Balcan 
-3. [CMU 10-701: Machine Learning](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml) by Tom Mitchell (2011) 
-4. [CMU 10-701: Machine Learning](http://www.cs.cmu.edu/~mgormley/courses/10701-f16/people.html) by Eric Xing & Matt Gormley 
+2. [CMU 10-601: Machine Learning](http://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml) by Tom Mitchell & Maria-Florina Balcan
+3. [CMU 10-701: Machine Learning](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml) by Tom Mitchell (2011)
+4. [CMU 10-701: Machine Learning](http://www.cs.cmu.edu/~mgormley/courses/10701-f16/people.html) by Eric Xing & Matt Gormley
 5. [CMU 10-701: Machine Learning](http://alex.smola.org/teaching/10-701-15/intro.html) by Alex Smola
 6. [CMU 10-715: Advanced Introduction to Machine Learning](http://www.cs.cmu.edu/~bapoczos/Classes/ML10715_2015Fall/)
 7. [CMU 10-605 Machine Learning with Large Datasets](http://curtis.ml.cmu.edu/w/courses/index.php/Machine_Learning_with_Large_Datasets_10-605_in_Fall_2016#Syllabus)
@@ -36,6 +36,7 @@ This is an archive of openware courses related to computer science, machine lear
 9. [Caltech Learning from Data](http://work.caltech.edu/telecourse.html)
 10. [Oxford Machine Learning](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
 11. [Berkley CS 189 Introduction to Machine Learning](https://people.eecs.berkeley.edu/~jrs/189s16/)
+12. [CMU 10-708 Probabilistic Graphical Model](https://www.youtube.com/channel/UCOzakpjRw6jySE1Fu6_ZWGg) by Eric Xing
 
 ## Deep Learning
 1. [Stanford CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
@@ -54,6 +55,3 @@ This is an archive of openware courses related to computer science, machine lear
 
 ## Finance
 1. [MIT 18.S096 Topics in Mathematics w Applications in Finance](https://www.youtube.com/playlist?list=PLUl4u3cNGP63ctJIEC1UnZ0btsphnnoHR)
-
-
-
