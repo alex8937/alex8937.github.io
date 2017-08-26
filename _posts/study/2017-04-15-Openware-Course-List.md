@@ -36,8 +36,11 @@ This is an archive of openware courses related to computer science, machine lear
 9. [Caltech Learning from Data](http://work.caltech.edu/telecourse.html)
 10. [Oxford Machine Learning](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
 11. [Berkley CS 189 Introduction to Machine Learning](https://people.eecs.berkeley.edu/~jrs/189s16/)
-12. [CMU 10-708 Probabilistic Graphical Model](https://www.youtube.com/channel/UCOzakpjRw6jySE1Fu6_ZWGg) by Eric Xing
-13. [CMU 10-702 Statistical Machine Learning](http://www.stat.cmu.edu/~larry/=sml/)
+12. [CMU 10-702 Statistical Machine Learning](http://www.stat.cmu.edu/~larry/=sml/)
+
+## Graphical Model
+1. [CMU 10-708 Probabilistic Graphical Model](https://www.youtube.com/channel/UCOzakpjRw6jySE1Fu6_ZWGg) by Eric Xing
+2. [EE512A Advanced Inference in Graphical Models](http://j.ee.washington.edu/~bilmes/classes/ee512a_fall_2014/)
 
 ## Deep Learning
 1. [Stanford CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
