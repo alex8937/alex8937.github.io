@@ -51,9 +51,9 @@ This is an archive of openware courses related to computer science, machine lear
 4. [Stanford CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
 
 ## Physics
-1.  [Theoretical Minimum Series](http://theoreticalminimum.com/courses) by Leonard Susskind
-2.  [MIT 8.04 Quantum Physics](https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2013/)
-
+1. [Theoretical Minimum Series](http://theoreticalminimum.com/courses) by Leonard Susskind
+2. [MIT 8.04 Quantum Physics](https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2013/)
+3. [International Winter School on Gravity and Light](https://www.youtube.com/watch?v=7G4SqIboeig&list=PLFeEvEPtX_0S6vxxiiNPrJbLu9aK1UVC)
 
 ## Mathematics
 1. [MIT 18.06 Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
