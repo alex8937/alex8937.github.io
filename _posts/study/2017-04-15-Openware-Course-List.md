@@ -59,8 +59,8 @@ This is an archive of openware courses related to computer science, machine lear
 1. [MIT 18.06 Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 2. [MIT 6.041 Probabilistic Systems Analysis and Applied Probability](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/)
 3. [CMU 10-801 Advanced Optimization and Randomized Methods](http://www.cs.cmu.edu/~suvrit/teach/aopt.html)
-4. [EE364a Convex Optimization I](https://stanford.edu/class/ee364a/)
-5. [EE364b Convex Optimization II](https://stanford.edu/class/ee364b/)
+4. [Stanford EE364a Convex Optimization I](https://stanford.edu/class/ee364a/)
+5. [Stanford EE364b Convex Optimization II](https://stanford.edu/class/ee364b/)
 
 ## Finance
 1. [MIT 18.S096 Topics in Mathematics w Applications in Finance](https://www.youtube.com/playlist?list=PLUl4u3cNGP63ctJIEC1UnZ0btsphnnoHR)
