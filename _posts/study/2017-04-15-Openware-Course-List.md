@@ -61,6 +61,7 @@ This is an archive of openware courses related to computer science, machine lear
 3. [CMU 10-801 Advanced Optimization and Randomized Methods](http://www.cs.cmu.edu/~suvrit/teach/aopt.html)
 4. [Stanford EE364a Convex Optimization I](https://stanford.edu/class/ee364a/)
 5. [Stanford EE364b Convex Optimization II](https://stanford.edu/class/ee364b/)
+6. [CMU 10-725 Convex Optimization](http://www.stat.cmu.edu/~ryantibs/convexopt/)
 
 ## Finance
 1. [MIT 18.S096 Topics in Mathematics w Applications in Finance](https://www.youtube.com/playlist?list=PLUl4u3cNGP63ctJIEC1UnZ0btsphnnoHR)
