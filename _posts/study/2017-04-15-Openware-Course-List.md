@@ -38,7 +38,7 @@ This is an archive of openware courses related to computer science, machine lear
 11. [Caltech Learning from Data](http://work.caltech.edu/telecourse.html)
 12. [Oxford Machine Learning](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
 13. [Berkley CS 189 Introduction to Machine Learning](https://people.eecs.berkeley.edu/~jrs/189s16/) (Video Removed)
-
+14. [Stanford Statistical Learning](https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/)
 
 ## Graphical Model
 1. [CMU 10-708 Probabilistic Graphical Model](https://www.youtube.com/channel/UCOzakpjRw6jySE1Fu6_ZWGg) by Eric Xing
