@@ -51,20 +51,22 @@ This is an archive of openware courses related to computer science, machine lear
 3. [MIT 6.S094: Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/)
 4. [Stanford CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
 
+## Optimization
+1. [Stanford EE364a Convex Optimization I](https://stanford.edu/class/ee364a/)
+2. [Stanford EE364b Convex Optimization II](https://stanford.edu/class/ee364b/)
+3. [CMU 10-725 Convex Optimization](http://www.stat.cmu.edu/~ryantibs/convexopt/)
+4. [CMU 10-801 Advanced Optimization and Randomized Methods](http://www.cs.cmu.edu/~suvrit/teach/aopt.html)
+
+## Mathematics
+1. [MIT 18.06 Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
+2. [MIT 6.041 Probabilistic Systems Analysis and Applied Probability](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/)
+3. [Cambridge Information Theory, Pattern Recognition, and Neural Networks ](http://www.inference.org.uk/itprnn_lectures/)
+
 ## Physics
 1. [Theoretical Minimum Series](http://theoreticalminimum.com/courses) by Leonard Susskind
 2. [MIT 8.04 Quantum Physics](https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2013/)
 3. [International Winter School on Gravity and Light](https://www.youtube.com/watch?v=7G4SqIboeig&list=PLFeEvEPtX_0S6vxxiiNPrJbLu9aK1UVC)
 4. [PSI Fellow Lie Groups and Lie Algebras](https://www.youtube.com/watch?v=q1riFCCsUU4&list=PLNhSjK9aGXjoSH3rtyfHgB5tOWDOWyJqU)
-
-## Mathematics
-1. [MIT 18.06 Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
-2. [MIT 6.041 Probabilistic Systems Analysis and Applied Probability](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/)
-3. [Stanford EE364a Convex Optimization I](https://stanford.edu/class/ee364a/)
-4. [Stanford EE364b Convex Optimization II](https://stanford.edu/class/ee364b/)
-5. [CMU 10-725 Convex Optimization](http://www.stat.cmu.edu/~ryantibs/convexopt/)
-6. [CMU 10-801 Advanced Optimization and Randomized Methods](http://www.cs.cmu.edu/~suvrit/teach/aopt.html)
-7. [Cambridge Information Theory, Pattern Recognition, and Neural Networks ](http://www.inference.org.uk/itprnn_lectures/)
 
 ## Finance
 1. [MIT 18.S096 Topics in Mathematics w Applications in Finance](https://www.youtube.com/playlist?list=PLUl4u3cNGP63ctJIEC1UnZ0btsphnnoHR)
